@@ -1,1 +1,1 @@
-# jokenpo.py
+# jokenpo!
